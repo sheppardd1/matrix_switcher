@@ -2,7 +2,7 @@
 The matrix switcher program uses MATLAB to control an HP34904A switching device housed in an HP34970A switching system. It acts as an automated multiplexer with 4 wires per destination.
 ## Contents
 * Top-Level file: matrix_switcher.m
-* Function for looping bwetween soil tubes: switching_loop.m
+* Function for looping between soil tubes: switching_loop.m
 * Function for setting appropriate relays: set_relay.m
 * Sample auto-generated soil log file: soil_log.txt
 * Detailed documentation: Matrix_Switcher_Documentation.pdf
